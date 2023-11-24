@@ -1,0 +1,1 @@
+{"Interconnection":{"name":"Interconnection","packages":{"model.data_structures":{"packageName":"model.data_structures","isAll":false,"classes":["Lmodel.data_structures.GrafoListaAdyacencia"]}}}}
